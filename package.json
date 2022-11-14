@@ -1,0 +1,41 @@
+{
+  "name": "rangoli-color",
+  "version": "1.0.0",
+  "description": "rangoli-color library to colorify logs",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajesh-gole/rangoli-color.git"
+  },
+  "keywords": [
+    "rangoli colors",
+    "rangoli",
+    "colors",
+    "console log colors",
+    "colorify logs",
+    "Color Your Terminal",
+    "colorful output on screen",
+    "Color",
+    "node",
+    "module",
+    "a",
+    "string"
+  ],
+  "author": "rajesh-gole <inpput.outpput@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajesh-gole/rangoli-color/issues"
+  },
+  "homepage": "https://github.com/rajesh-gole/rangoli-color#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}
